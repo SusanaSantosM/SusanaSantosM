@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Susana
-- 👀 I’m interested in pplication development and and web page design
+- 👀 I’m interested in application development and web page design
 - 🌱 I’m currently learning Java, HTML, CSS, SQL and Git 
-- 💞️ I’m looking to collaborate on something where I provide my knowledge and improve my skills
+- 💞️ I’m looking to collaborate on projects where I provide my knowledge and improve my skills
 - 💃 Fun fact: I like to dance
+- 🍝 Love to eat: Italian food
 
 <!---
 SusanaSantosM/SusanaSantosM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
